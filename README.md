@@ -5,7 +5,7 @@ gh-pages playground
 
 ### golang
 
-[Ubuntu PPA(]https://github.com/golang/go/wiki/Ubuntu)
+[Ubuntu PPA](https://github.com/golang/go/wiki/Ubuntu)
 
 ### hugo
 
